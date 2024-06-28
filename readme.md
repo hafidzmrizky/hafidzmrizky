@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Hafidz Muhammad Rizky, a Vocational High School Student, Year 11. <br>I have a deep interest in the technology space. 
+I am Hafidz Muhammad Rizky, a Vocational High School Student, Year 12. <br>I have a deep interest in the technology space. 
 
 
 ## 🌐 Socials:
