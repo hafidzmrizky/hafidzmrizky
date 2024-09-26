@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=hafidzmrizky&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafidzmrizky) 
 # **Who is Hafidz?** 🤫
-He is currently a **Vocational High School Student** in his **final year** before going to university. He has been traversing the world of technology since a young age, starting from a simple WordPress blog to a much-sophisticated product, even though most of his work isn't in the public repository yet. I believe he is quite active on his LinkedIn, or hunting the picture of a lifetime using his "borrowed" camera. 
+He is currently a **Vocational High School Student** in his **final year** before going to university. He has been traversing the world of technology since a young age, evolving from a simple WordPress blog to more sophisticated products, though much of his work is not yet available in public repositories. I believe he is quite active on his LinkedIn, or hunting the picture of a lifetime using his "borrowed" camera. 
 
 # **His Public Repo Stats**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzmrizky&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
