@@ -2,8 +2,6 @@
 [![](https://visitcount.itsvg.in/api?id=hafidzmrizky&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafidzmrizky) 
 # **Who is Hafidz?** 🤫
-He is currently a **Vocational High School Student** in his **final year** before going to university. He has been traversing the world of technology since a young age, evolving from a simple WordPress blog to more sophisticated products, though much of his work is not yet available in public repositories. I believe he is quite active on his LinkedIn, or hunting the picture of a lifetime using his "borrowed" camera. 
-
 He is currently a graduate from his **Vocational High School**, a few months away from going to university to study **Computer Science with Artificial Intelligence**. As a person who has traversed the world of technology since pre-school, from installing a game on an old Java phone, to a simple WordPress blog, and now to more sophisticated solutions for people and for companies. He really loves photography, and loves to snap a picture at the convention so people have something to remember for the rest of their lives. 
 
 # **His Public Repo Stats**
