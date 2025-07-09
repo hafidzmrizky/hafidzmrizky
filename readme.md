@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=hafidzmrizky&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafidzmrizky) 
 # **Who is Hafidz?** 🤫
-He is a valedictorian graduate from **Bina Informatika Vocational High School**, graduating with three awards: Best Final Project, Best Student in Software Engineering, and Valedictorian. He is a few months away from going to university to study **Computer Science with Artificial Intelligence**. As a person who has traversed the world of technology since pre-school, from installing a game on an old Java phone, to a simple WordPress blog, and now to more sophisticated solutions for people and for companies. He really loves photography, and loves to snap a picture at the convention so people have something to remember for the rest of their lives. 
+He is a valedictorian graduate from **Bina Informatika Vocational High School**, graduating with three awards: **Best Final Project, Best Student in Software Engineering, and Valedictorian**. He is a few months away from going to university to study **Computer Science with Artificial Intelligence**. As a person who has traversed the world of technology since pre-school, from installing a game on an old Java phone, to a simple WordPress blog, and now to more sophisticated solutions for people and for companies. He really loves photography, and loves to snap a picture at the convention so people have something to remember for the rest of their lives. 
 
 # **His Public Repo Stats**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzmrizky&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
