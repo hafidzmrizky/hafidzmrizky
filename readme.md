@@ -1,11 +1,9 @@
-![header-without-line](https://github.com/user-attachments/assets/51307b92-add6-444c-8dc6-375e48874076)
+![header-without-line](https://github.com/user-attachments/assets/ac887d59-51be-4fe1-a8bb-ce420686eba9)
 [![](https://visitcount.itsvg.in/api?id=hafidzmrizky&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafidzmrizky) 
 # Hey, I'm Rizky.
 I'm an Artificial Intelligence student from **Universiti Malaya**. I love building edge-AI solution (local AI), developing mobile app, and photography.
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzmrizky&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 <!--
 **hafidzmrizky/hafidzmrizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
