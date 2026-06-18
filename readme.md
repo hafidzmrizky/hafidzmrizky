@@ -1,6 +1,5 @@
 ![header-without-line](https://github.com/user-attachments/assets/ac887d59-51be-4fe1-a8bb-ce420686eba9)
 [![](https://visitcount.itsvg.in/api?id=hafidzmrizky&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafidzmrizky) 
 
 <!--
 **hafidzmrizky/hafidzmrizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +12,7 @@ He is a valedictorian graduate from **Bina Informatika Vocational High School**,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hafidzmrizky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hafidzmrizky&theme=dark&hide_border=false)<br/>
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafidzmrizky) 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hafidzmrizky&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
