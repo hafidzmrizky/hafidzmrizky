@@ -1,4 +1,4 @@
-[![header-without-line](https://github.com/user-attachments/assets/1239e832-4882-4014-b552-d6ea3badca4a)](https://github.com/user-attachments/assets/4e09ba4e-4c03-4b5c-bfd2-1b01129df4c3)
+[![header-without-line])](https://github.com/user-attachments/assets/51307b92-add6-444c-8dc6-375e48874076)
 [![](https://visitcount.itsvg.in/api?id=hafidzmrizky&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hafidzmrizky) 
 # Hey, I'm Rizky.
